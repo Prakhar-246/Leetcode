@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Prakhar-246/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prakhar-246/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Prakhar-246/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -21,4 +22,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/Prakhar-246/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
