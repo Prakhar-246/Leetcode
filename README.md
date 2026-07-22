@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Prakhar-246/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Prakhar-246/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakhar-246/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Prakhar-246/Leetcode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
