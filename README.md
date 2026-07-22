@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Prakhar-246/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prakhar-246/Leetcode/tree/master/0035-search-insert-position) |
@@ -22,47 +22,47 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/Prakhar-246/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Prakhar-246/Leetcode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Prakhar-246/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Prakhar-246/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakhar-246/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Prakhar-246/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prakhar-246/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Prakhar-246/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Prakhar-246/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakhar-246/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Prakhar-246/Leetcode/tree/master/0027-remove-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakhar-246/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prakhar-246/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/Prakhar-246/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
