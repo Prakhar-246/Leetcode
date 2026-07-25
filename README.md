@@ -83,4 +83,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Prakhar-246/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prakhar-246/Leetcode/tree/main/0018-4sum/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Prakhar-246/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Prakhar-246/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
