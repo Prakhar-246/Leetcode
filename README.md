@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakhar-246/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Prakhar-246/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Prakhar-246/Leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakhar-246/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Prakhar-246/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prakhar-246/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakhar-246/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakhar-246/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakhar-246/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Prakhar-246/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -137,4 +140,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
