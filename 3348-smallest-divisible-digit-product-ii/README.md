@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii">3635. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr><p>You are given a string <code>num</code> which represents a <strong>positive</strong> integer, and an integer <code>t</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/?envType=daily-question&envId=2026-08-07">3348. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr><p>You are given a string <code>num</code> which represents a <strong>positive</strong> integer, and an integer <code>t</code>.</p>
 
 <p>A number is called <strong>zero-free</strong> if <em>none</em> of its digits are 0.</p>
 
