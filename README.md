@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakhar-246/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakhar-246/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Prakhar-246/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Prakhar-246/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Prakhar-246/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prakhar-246/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakhar-246/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakhar-246/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
