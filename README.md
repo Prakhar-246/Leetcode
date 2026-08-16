@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prakhar-246/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakhar-246/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Prakhar-246/Leetcode/tree/master/0704-binary-search) |
 ## String
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakhar-246/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -248,4 +250,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prakhar-246/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
