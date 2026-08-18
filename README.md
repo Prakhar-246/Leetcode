@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prakhar-246/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakhar-246/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prakhar-246/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakhar-246/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -259,4 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prakhar-246/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prakhar-246/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
