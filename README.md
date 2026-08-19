@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prakhar-246/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Prakhar-246/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Prakhar-246/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prakhar-246/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Prakhar-246/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakhar-246/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
