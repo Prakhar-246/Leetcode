@@ -277,4 +277,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Prakhar-246/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Prakhar-246/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
