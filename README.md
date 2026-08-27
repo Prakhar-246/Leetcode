@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Prakhar-246/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prakhar-246/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -46,30 +46,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prakhar-246/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Prakhar-246/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Prakhar-246/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Prakhar-246/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakhar-246/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakhar-246/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Prakhar-246/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Prakhar-246/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prakhar-246/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Prakhar-246/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Prakhar-246/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Prakhar-246/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakhar-246/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
@@ -79,8 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/Prakhar-246/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Prakhar-246/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prakhar-246/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -94,11 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakhar-246/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prakhar-246/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prakhar-246/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Prakhar-246/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Prakhar-246/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakhar-246/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakhar-246/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -107,12 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Prakhar-246/Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prakhar-246/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
@@ -120,11 +121,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Prakhar-246/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Prakhar-246/Leetcode/tree/master/0704-binary-search) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prakhar-246/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakhar-246/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prakhar-246/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Prakhar-246/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakhar-246/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakhar-246/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakhar-246/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -134,16 +136,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prakhar-246/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakhar-246/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Prakhar-246/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prakhar-246/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prakhar-246/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prakhar-246/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Prakhar-246/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Prakhar-246/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakhar-246/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakhar-246/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -152,8 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Prakhar-246/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prakhar-246/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/Prakhar-246/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/Prakhar-246/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
@@ -169,116 +172,116 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Prakhar-246/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakhar-246/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakhar-246/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakhar-246/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prakhar-246/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prakhar-246/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Prakhar-246/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prakhar-246/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Prakhar-246/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Prakhar-246/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prakhar-246/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Prakhar-246/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Prakhar-246/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prakhar-246/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Prakhar-246/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Prakhar-246/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prakhar-246/Leetcode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Prakhar-246/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Prakhar-246/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Prakhar-246/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prakhar-246/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prakhar-246/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prakhar-246/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Prakhar-246/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Prakhar-246/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prakhar-246/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prakhar-246/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakhar-246/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prakhar-246/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakhar-246/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakhar-246/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakhar-246/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prakhar-246/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Newton's Method
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/Prakhar-246/Leetcode/tree/master/0069-sqrtx) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prakhar-246/Leetcode/tree/master/0020-valid-parentheses) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prakhar-246/Leetcode/tree/master/0020-valid-parentheses) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Prakhar-246/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Prakhar-246/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Prakhar-246/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
